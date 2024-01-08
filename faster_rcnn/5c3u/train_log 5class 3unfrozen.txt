@@ -1,0 +1,210 @@
+2024-01-08 00:37:21 epoch: 0, counter: 0, batch_loss: 3.303905725479126
+2024-01-08 00:38:54 epoch: 0, counter: 960, batch_loss: 0.4750238060951233
+2024-01-08 00:40:29 epoch: 0, counter: 1920, batch_loss: 0.7227901220321655
+2024-01-08 00:41:36 {'loss_classifier': tensor(48.5332, device='cuda:0'), 'loss_box_reg': tensor(53.6715, device='cuda:0'), 'loss_objectness': tensor(33.1404, device='cuda:0'), 'loss_rpn_box_reg': tensor(65.9229, device='cuda:0')}
+2024-01-08 00:41:51 {'loss_classifier': tensor(4.2831, device='cuda:0'), 'loss_box_reg': tensor(5.4644, device='cuda:0'), 'loss_objectness': tensor(3.6660, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.0641, device='cuda:0')}
+2024-01-08 00:41:51 Epoch: 0 	Training Loss: 201.268036 	Validation Loss: 21.477583
+2024-01-08 00:41:51 Validation loss decreased (inf --> 21.477583).  Saving model ...
+2024-01-08 00:41:52 epoch: 1, counter: 0, batch_loss: 0.7401750087738037
+2024-01-08 00:43:26 epoch: 1, counter: 960, batch_loss: 0.5165043473243713
+2024-01-08 00:45:00 epoch: 1, counter: 1920, batch_loss: 0.49148502945899963
+2024-01-08 00:46:07 {'loss_classifier': tensor(28.4987, device='cuda:0'), 'loss_box_reg': tensor(38.1444, device='cuda:0'), 'loss_objectness': tensor(21.2800, device='cuda:0'), 'loss_rpn_box_reg': tensor(54.6905, device='cuda:0')}
+2024-01-08 00:46:23 {'loss_classifier': tensor(3.6207, device='cuda:0'), 'loss_box_reg': tensor(4.8970, device='cuda:0'), 'loss_objectness': tensor(3.7023, device='cuda:0'), 'loss_rpn_box_reg': tensor(7.7303, device='cuda:0')}
+2024-01-08 00:46:23 Epoch: 1 	Training Loss: 142.613693 	Validation Loss: 19.950361
+2024-01-08 00:46:23 Validation loss decreased (21.477583 --> 19.950361).  Saving model ...
+2024-01-08 00:46:23 epoch: 2, counter: 0, batch_loss: 0.4768073856830597
+2024-01-08 00:47:58 epoch: 2, counter: 960, batch_loss: 0.6020380854606628
+2024-01-08 00:49:33 epoch: 2, counter: 1920, batch_loss: 0.3838973641395569
+2024-01-08 00:50:40 {'loss_classifier': tensor(25.9957, device='cuda:0'), 'loss_box_reg': tensor(35.7768, device='cuda:0'), 'loss_objectness': tensor(18.8214, device='cuda:0'), 'loss_rpn_box_reg': tensor(50.8151, device='cuda:0')}
+2024-01-08 00:50:55 {'loss_classifier': tensor(3.4692, device='cuda:0'), 'loss_box_reg': tensor(4.4687, device='cuda:0'), 'loss_objectness': tensor(3.7160, device='cuda:0'), 'loss_rpn_box_reg': tensor(7.5994, device='cuda:0')}
+2024-01-08 00:50:55 Epoch: 2 	Training Loss: 131.409103 	Validation Loss: 19.253397
+2024-01-08 00:50:55 Validation loss decreased (19.950361 --> 19.253397).  Saving model ...
+2024-01-08 00:50:56 epoch: 3, counter: 0, batch_loss: 0.5829843282699585
+2024-01-08 00:52:31 epoch: 3, counter: 960, batch_loss: 0.5210771560668945
+2024-01-08 00:54:05 epoch: 3, counter: 1920, batch_loss: 0.5029794573783875
+2024-01-08 00:55:12 {'loss_classifier': tensor(24.4451, device='cuda:0'), 'loss_box_reg': tensor(34.5022, device='cuda:0'), 'loss_objectness': tensor(16.6535, device='cuda:0'), 'loss_rpn_box_reg': tensor(47.7761, device='cuda:0')}
+2024-01-08 00:55:28 {'loss_classifier': tensor(3.4525, device='cuda:0'), 'loss_box_reg': tensor(4.4114, device='cuda:0'), 'loss_objectness': tensor(4.0141, device='cuda:0'), 'loss_rpn_box_reg': tensor(7.5892, device='cuda:0')}
+2024-01-08 00:55:28 Epoch: 3 	Training Loss: 123.376770 	Validation Loss: 19.467201
+2024-01-08 00:55:28 Validation loss decreased (19.253397 --> 19.467201).  Saving model ...
+2024-01-08 00:55:28 epoch: 4, counter: 0, batch_loss: 0.44037503004074097
+2024-01-08 00:57:03 epoch: 4, counter: 960, batch_loss: 0.45729732513427734
+2024-01-08 00:58:38 epoch: 4, counter: 1920, batch_loss: 0.5591939687728882
+2024-01-08 00:59:45 {'loss_classifier': tensor(23.1520, device='cuda:0'), 'loss_box_reg': tensor(33.5961, device='cuda:0'), 'loss_objectness': tensor(15.1416, device='cuda:0'), 'loss_rpn_box_reg': tensor(44.8368, device='cuda:0')}
+2024-01-08 01:00:00 {'loss_classifier': tensor(3.4103, device='cuda:0'), 'loss_box_reg': tensor(4.3641, device='cuda:0'), 'loss_objectness': tensor(4.1723, device='cuda:0'), 'loss_rpn_box_reg': tensor(7.5979, device='cuda:0')}
+2024-01-08 01:00:00 Epoch: 4 	Training Loss: 116.726456 	Validation Loss: 19.544546
+2024-01-08 01:00:00 Validation loss decreased (19.467201 --> 19.544546).  Saving model ...
+2024-01-08 01:00:01 epoch: 5, counter: 0, batch_loss: 0.356494665145874
+2024-01-08 01:01:35 epoch: 5, counter: 960, batch_loss: 0.37191060185432434
+2024-01-08 01:03:10 epoch: 5, counter: 1920, batch_loss: 0.37888187170028687
+2024-01-08 01:04:16 {'loss_classifier': tensor(22.4154, device='cuda:0'), 'loss_box_reg': tensor(32.9934, device='cuda:0'), 'loss_objectness': tensor(13.8677, device='cuda:0'), 'loss_rpn_box_reg': tensor(42.0550, device='cuda:0')}
+2024-01-08 01:04:32 {'loss_classifier': tensor(3.4578, device='cuda:0'), 'loss_box_reg': tensor(4.3801, device='cuda:0'), 'loss_objectness': tensor(4.5701, device='cuda:0'), 'loss_rpn_box_reg': tensor(7.6678, device='cuda:0')}
+2024-01-08 01:04:32 Epoch: 5 	Training Loss: 111.331482 	Validation Loss: 20.075825
+2024-01-08 01:04:32 Validation loss decreased (19.544546 --> 20.075825).  Saving model ...
+2024-01-08 01:04:33 epoch: 6, counter: 0, batch_loss: 0.3145582675933838
+2024-01-08 01:06:07 epoch: 6, counter: 960, batch_loss: 0.37375736236572266
+2024-01-08 01:07:42 epoch: 6, counter: 1920, batch_loss: 0.3233887255191803
+2024-01-08 01:08:49 {'loss_classifier': tensor(21.8151, device='cuda:0'), 'loss_box_reg': tensor(32.6203, device='cuda:0'), 'loss_objectness': tensor(12.7715, device='cuda:0'), 'loss_rpn_box_reg': tensor(39.7142, device='cuda:0')}
+2024-01-08 01:09:05 {'loss_classifier': tensor(3.3810, device='cuda:0'), 'loss_box_reg': tensor(4.3831, device='cuda:0'), 'loss_objectness': tensor(5.1824, device='cuda:0'), 'loss_rpn_box_reg': tensor(7.7021, device='cuda:0')}
+2024-01-08 01:09:05 Epoch: 6 	Training Loss: 106.921188 	Validation Loss: 20.648590
+2024-01-08 01:09:05 Validation loss decreased (20.075825 --> 20.648590).  Saving model ...
+2024-01-08 01:09:05 epoch: 7, counter: 0, batch_loss: 0.4794895648956299
+2024-01-08 01:10:40 epoch: 7, counter: 960, batch_loss: 0.266316294670105
+2024-01-08 01:12:15 epoch: 7, counter: 1920, batch_loss: 0.40277737379074097
+2024-01-08 01:13:21 {'loss_classifier': tensor(21.0793, device='cuda:0'), 'loss_box_reg': tensor(32.0199, device='cuda:0'), 'loss_objectness': tensor(11.6509, device='cuda:0'), 'loss_rpn_box_reg': tensor(37.6018, device='cuda:0')}
+2024-01-08 01:13:37 {'loss_classifier': tensor(3.3478, device='cuda:0'), 'loss_box_reg': tensor(4.2929, device='cuda:0'), 'loss_objectness': tensor(5.5842, device='cuda:0'), 'loss_rpn_box_reg': tensor(7.7555, device='cuda:0')}
+2024-01-08 01:13:37 Epoch: 7 	Training Loss: 102.351952 	Validation Loss: 20.980478
+2024-01-08 01:13:37 Validation loss decreased (20.648590 --> 20.980478).  Saving model ...
+2024-01-08 01:13:37 epoch: 8, counter: 0, batch_loss: 0.3849693238735199
+2024-01-08 01:15:12 epoch: 8, counter: 960, batch_loss: 0.46134424209594727
+2024-01-08 01:16:46 epoch: 8, counter: 1920, batch_loss: 0.31582263112068176
+2024-01-08 01:17:53 {'loss_classifier': tensor(20.4322, device='cuda:0'), 'loss_box_reg': tensor(31.6672, device='cuda:0'), 'loss_objectness': tensor(10.8790, device='cuda:0'), 'loss_rpn_box_reg': tensor(35.7453, device='cuda:0')}
+2024-01-08 01:18:08 {'loss_classifier': tensor(3.4576, device='cuda:0'), 'loss_box_reg': tensor(4.3503, device='cuda:0'), 'loss_objectness': tensor(6.7145, device='cuda:0'), 'loss_rpn_box_reg': tensor(7.9731, device='cuda:0')}
+2024-01-08 01:18:08 Epoch: 8 	Training Loss: 98.723694 	Validation Loss: 22.495571
+2024-01-08 01:18:08 Validation loss decreased (20.980478 --> 22.495571).  Saving model ...
+2024-01-08 01:18:09 epoch: 9, counter: 0, batch_loss: 0.3469259738922119
+2024-01-08 01:19:44 epoch: 9, counter: 960, batch_loss: 0.3311576247215271
+2024-01-08 01:21:19 epoch: 9, counter: 1920, batch_loss: 0.40981531143188477
+2024-01-08 01:22:26 {'loss_classifier': tensor(19.8745, device='cuda:0'), 'loss_box_reg': tensor(31.2302, device='cuda:0'), 'loss_objectness': tensor(9.8503, device='cuda:0'), 'loss_rpn_box_reg': tensor(34.0054, device='cuda:0')}
+2024-01-08 01:22:41 {'loss_classifier': tensor(3.5284, device='cuda:0'), 'loss_box_reg': tensor(4.3872, device='cuda:0'), 'loss_objectness': tensor(7.2661, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.0412, device='cuda:0')}
+2024-01-08 01:22:41 Epoch: 9 	Training Loss: 94.960365 	Validation Loss: 23.223024
+2024-01-08 01:22:41 Validation loss decreased (22.495571 --> 23.223024).  Saving model ...
+2024-01-08 01:22:42 epoch: 10, counter: 0, batch_loss: 0.37571635842323303
+2024-01-08 01:24:16 epoch: 10, counter: 960, batch_loss: 0.3952450156211853
+2024-01-08 01:25:51 epoch: 10, counter: 1920, batch_loss: 0.3031643033027649
+2024-01-08 01:26:57 {'loss_classifier': tensor(19.4076, device='cuda:0'), 'loss_box_reg': tensor(30.8182, device='cuda:0'), 'loss_objectness': tensor(9.0708, device='cuda:0'), 'loss_rpn_box_reg': tensor(32.7311, device='cuda:0')}
+2024-01-08 01:27:13 {'loss_classifier': tensor(3.5296, device='cuda:0'), 'loss_box_reg': tensor(4.3436, device='cuda:0'), 'loss_objectness': tensor(7.4294, device='cuda:0'), 'loss_rpn_box_reg': tensor(7.9740, device='cuda:0')}
+2024-01-08 01:27:13 Epoch: 10 	Training Loss: 92.027779 	Validation Loss: 23.276579
+2024-01-08 01:27:13 Validation loss decreased (23.223024 --> 23.276579).  Saving model ...
+2024-01-08 01:27:13 epoch: 11, counter: 0, batch_loss: 0.44988274574279785
+2024-01-08 01:28:48 epoch: 11, counter: 960, batch_loss: 0.42297542095184326
+2024-01-08 01:30:22 epoch: 11, counter: 1920, batch_loss: 0.2844306528568268
+2024-01-08 01:31:29 {'loss_classifier': tensor(18.6321, device='cuda:0'), 'loss_box_reg': tensor(30.6005, device='cuda:0'), 'loss_objectness': tensor(8.5077, device='cuda:0'), 'loss_rpn_box_reg': tensor(31.2021, device='cuda:0')}
+2024-01-08 01:31:44 {'loss_classifier': tensor(3.5709, device='cuda:0'), 'loss_box_reg': tensor(4.3551, device='cuda:0'), 'loss_objectness': tensor(8.1320, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.1826, device='cuda:0')}
+2024-01-08 01:31:44 Epoch: 11 	Training Loss: 88.942337 	Validation Loss: 24.240564
+2024-01-08 01:31:44 Validation loss decreased (23.276579 --> 24.240564).  Saving model ...
+2024-01-08 01:31:45 epoch: 12, counter: 0, batch_loss: 0.2223963737487793
+2024-01-08 01:33:19 epoch: 12, counter: 960, batch_loss: 0.3799329400062561
+2024-01-08 01:34:53 epoch: 12, counter: 1920, batch_loss: 0.2785927653312683
+2024-01-08 01:36:00 {'loss_classifier': tensor(18.0922, device='cuda:0'), 'loss_box_reg': tensor(30.1173, device='cuda:0'), 'loss_objectness': tensor(7.9115, device='cuda:0'), 'loss_rpn_box_reg': tensor(29.7841, device='cuda:0')}
+2024-01-08 01:36:16 {'loss_classifier': tensor(3.8329, device='cuda:0'), 'loss_box_reg': tensor(4.5330, device='cuda:0'), 'loss_objectness': tensor(11.1129, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.2136, device='cuda:0')}
+2024-01-08 01:36:16 Epoch: 12 	Training Loss: 85.905006 	Validation Loss: 27.692295
+2024-01-08 01:36:16 Validation loss decreased (24.240564 --> 27.692295).  Saving model ...
+2024-01-08 01:36:16 epoch: 13, counter: 0, batch_loss: 0.2638815641403198
+2024-01-08 01:37:51 epoch: 13, counter: 960, batch_loss: 0.4755859971046448
+2024-01-08 01:39:25 epoch: 13, counter: 1920, batch_loss: 0.17784446477890015
+2024-01-08 01:40:32 {'loss_classifier': tensor(17.4273, device='cuda:0'), 'loss_box_reg': tensor(29.7406, device='cuda:0'), 'loss_objectness': tensor(7.0507, device='cuda:0'), 'loss_rpn_box_reg': tensor(28.3185, device='cuda:0')}
+2024-01-08 01:40:48 {'loss_classifier': tensor(3.8723, device='cuda:0'), 'loss_box_reg': tensor(4.4743, device='cuda:0'), 'loss_objectness': tensor(10.6884, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.2964, device='cuda:0')}
+2024-01-08 01:40:48 Epoch: 13 	Training Loss: 82.537170 	Validation Loss: 27.331400
+2024-01-08 01:40:48 Validation loss decreased (27.692295 --> 27.331400).  Saving model ...
+2024-01-08 01:40:48 epoch: 14, counter: 0, batch_loss: 0.23655599355697632
+2024-01-08 01:42:23 epoch: 14, counter: 960, batch_loss: 0.295093297958374
+2024-01-08 01:43:57 epoch: 14, counter: 1920, batch_loss: 0.24985083937644958
+2024-01-08 01:45:04 {'loss_classifier': tensor(16.7705, device='cuda:0'), 'loss_box_reg': tensor(29.2681, device='cuda:0'), 'loss_objectness': tensor(6.6842, device='cuda:0'), 'loss_rpn_box_reg': tensor(26.9370, device='cuda:0')}
+2024-01-08 01:45:19 {'loss_classifier': tensor(3.8839, device='cuda:0'), 'loss_box_reg': tensor(4.4934, device='cuda:0'), 'loss_objectness': tensor(11.8083, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.4222, device='cuda:0')}
+2024-01-08 01:45:19 Epoch: 14 	Training Loss: 79.659698 	Validation Loss: 28.607851
+2024-01-08 01:45:19 Validation loss decreased (27.331400 --> 28.607851).  Saving model ...
+2024-01-08 01:45:20 epoch: 15, counter: 0, batch_loss: 0.3170059025287628
+2024-01-08 01:46:55 epoch: 15, counter: 960, batch_loss: 0.2866947054862976
+2024-01-08 01:48:29 epoch: 15, counter: 1920, batch_loss: 0.24759933352470398
+2024-01-08 01:49:35 {'loss_classifier': tensor(16.1778, device='cuda:0'), 'loss_box_reg': tensor(28.9841, device='cuda:0'), 'loss_objectness': tensor(6.1014, device='cuda:0'), 'loss_rpn_box_reg': tensor(25.9742, device='cuda:0')}
+2024-01-08 01:49:51 {'loss_classifier': tensor(3.9808, device='cuda:0'), 'loss_box_reg': tensor(4.5193, device='cuda:0'), 'loss_objectness': tensor(14.0907, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.4143, device='cuda:0')}
+2024-01-08 01:49:51 Epoch: 15 	Training Loss: 77.237526 	Validation Loss: 31.005054
+2024-01-08 01:49:51 Validation loss decreased (28.607851 --> 31.005054).  Saving model ...
+2024-01-08 01:49:51 epoch: 16, counter: 0, batch_loss: 0.26739364862442017
+2024-01-08 01:51:26 epoch: 16, counter: 960, batch_loss: 0.47611135244369507
+2024-01-08 01:53:00 epoch: 16, counter: 1920, batch_loss: 0.2851482033729553
+2024-01-08 01:54:07 {'loss_classifier': tensor(15.6087, device='cuda:0'), 'loss_box_reg': tensor(28.4406, device='cuda:0'), 'loss_objectness': tensor(5.7505, device='cuda:0'), 'loss_rpn_box_reg': tensor(25.0739, device='cuda:0')}
+2024-01-08 01:54:22 {'loss_classifier': tensor(4.0634, device='cuda:0'), 'loss_box_reg': tensor(4.6258, device='cuda:0'), 'loss_objectness': tensor(15.6497, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.5963, device='cuda:0')}
+2024-01-08 01:54:22 Epoch: 16 	Training Loss: 74.873695 	Validation Loss: 32.935143
+2024-01-08 01:54:22 Validation loss decreased (31.005054 --> 32.935143).  Saving model ...
+2024-01-08 01:54:23 epoch: 17, counter: 0, batch_loss: 0.27000394463539124
+2024-01-08 01:55:57 epoch: 17, counter: 960, batch_loss: 0.20453400909900665
+2024-01-08 01:57:31 epoch: 17, counter: 1920, batch_loss: 0.27541372179985046
+2024-01-08 01:58:38 {'loss_classifier': tensor(15.0789, device='cuda:0'), 'loss_box_reg': tensor(28.1800, device='cuda:0'), 'loss_objectness': tensor(5.3471, device='cuda:0'), 'loss_rpn_box_reg': tensor(24.1444, device='cuda:0')}
+2024-01-08 01:58:54 {'loss_classifier': tensor(4.1384, device='cuda:0'), 'loss_box_reg': tensor(4.6564, device='cuda:0'), 'loss_objectness': tensor(15.9668, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.5126, device='cuda:0')}
+2024-01-08 01:58:54 Epoch: 17 	Training Loss: 72.750420 	Validation Loss: 33.274269
+2024-01-08 01:58:54 Validation loss decreased (32.935143 --> 33.274269).  Saving model ...
+2024-01-08 01:58:54 epoch: 18, counter: 0, batch_loss: 0.21305716037750244
+2024-01-08 02:00:29 epoch: 18, counter: 960, batch_loss: 0.32732781767845154
+2024-01-08 02:02:03 epoch: 18, counter: 1920, batch_loss: 0.16297832131385803
+2024-01-08 02:03:10 {'loss_classifier': tensor(14.5024, device='cuda:0'), 'loss_box_reg': tensor(27.5385, device='cuda:0'), 'loss_objectness': tensor(5.2258, device='cuda:0'), 'loss_rpn_box_reg': tensor(23.0963, device='cuda:0')}
+2024-01-08 02:03:25 {'loss_classifier': tensor(4.2727, device='cuda:0'), 'loss_box_reg': tensor(4.6162, device='cuda:0'), 'loss_objectness': tensor(17.5809, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.5724, device='cuda:0')}
+2024-01-08 02:03:25 Epoch: 18 	Training Loss: 70.362976 	Validation Loss: 35.042339
+2024-01-08 02:03:25 Validation loss decreased (33.274269 --> 35.042339).  Saving model ...
+2024-01-08 02:18:38 epoch: 19, counter: 0, batch_loss: 0.29604774713516235
+2024-01-08 02:20:10 epoch: 19, counter: 960, batch_loss: 0.3955247104167938
+2024-01-08 02:21:44 epoch: 19, counter: 1920, batch_loss: 0.32998907566070557
+2024-01-08 02:22:52 {'loss_classifier': tensor(14.0347, device='cuda:0'), 'loss_box_reg': tensor(27.0432, device='cuda:0'), 'loss_objectness': tensor(4.7880, device='cuda:0'), 'loss_rpn_box_reg': tensor(22.2684, device='cuda:0')}
+2024-01-08 02:23:07 {'loss_classifier': tensor(4.2580, device='cuda:0'), 'loss_box_reg': tensor(4.6484, device='cuda:0'), 'loss_objectness': tensor(18.4376, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.6471, device='cuda:0')}
+2024-01-08 02:23:07 Epoch: 19 	Training Loss: 68.134323 	Validation Loss: 35.991165
+2024-01-08 02:23:07 Validation loss decreased (inf --> 35.991165).  Saving model ...
+2024-01-08 02:23:07 epoch: 20, counter: 0, batch_loss: 0.2142893522977829
+2024-01-08 02:24:42 epoch: 20, counter: 960, batch_loss: 0.19193536043167114
+2024-01-08 02:26:17 epoch: 20, counter: 1920, batch_loss: 0.25478029251098633
+2024-01-08 02:27:24 {'loss_classifier': tensor(13.1418, device='cuda:0'), 'loss_box_reg': tensor(25.9884, device='cuda:0'), 'loss_objectness': tensor(4.2175, device='cuda:0'), 'loss_rpn_box_reg': tensor(21.2325, device='cuda:0')}
+2024-01-08 02:27:39 {'loss_classifier': tensor(4.4210, device='cuda:0'), 'loss_box_reg': tensor(4.7118, device='cuda:0'), 'loss_objectness': tensor(19.4685, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.6571, device='cuda:0')}
+2024-01-08 02:27:39 Epoch: 20 	Training Loss: 64.580276 	Validation Loss: 37.258411
+2024-01-08 02:27:39 Validation loss decreased (35.991165 --> 37.258411).  Saving model ...
+2024-01-08 02:27:40 epoch: 21, counter: 0, batch_loss: 0.22565951943397522
+2024-01-08 02:29:14 epoch: 21, counter: 960, batch_loss: 0.287419855594635
+2024-01-08 02:30:49 epoch: 21, counter: 1920, batch_loss: 0.18690019845962524
+2024-01-08 02:31:56 {'loss_classifier': tensor(13.0041, device='cuda:0'), 'loss_box_reg': tensor(25.8024, device='cuda:0'), 'loss_objectness': tensor(4.1660, device='cuda:0'), 'loss_rpn_box_reg': tensor(20.6545, device='cuda:0')}
+2024-01-08 02:32:11 {'loss_classifier': tensor(4.3939, device='cuda:0'), 'loss_box_reg': tensor(4.7298, device='cuda:0'), 'loss_objectness': tensor(20.4066, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.7157, device='cuda:0')}
+2024-01-08 02:32:11 Epoch: 21 	Training Loss: 63.627052 	Validation Loss: 38.246048
+2024-01-08 02:32:11 Validation loss decreased (37.258411 --> 38.246048).  Saving model ...
+2024-01-08 02:32:12 epoch: 22, counter: 0, batch_loss: 0.19469720125198364
+2024-01-08 02:33:47 epoch: 22, counter: 960, batch_loss: 0.23802605271339417
+2024-01-08 02:35:21 epoch: 22, counter: 1920, batch_loss: 0.1333874613046646
+2024-01-08 02:36:28 {'loss_classifier': tensor(12.9828, device='cuda:0'), 'loss_box_reg': tensor(25.6775, device='cuda:0'), 'loss_objectness': tensor(4.1303, device='cuda:0'), 'loss_rpn_box_reg': tensor(20.1928, device='cuda:0')}
+2024-01-08 02:36:44 {'loss_classifier': tensor(4.3678, device='cuda:0'), 'loss_box_reg': tensor(4.7333, device='cuda:0'), 'loss_objectness': tensor(20.4787, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.7057, device='cuda:0')}
+2024-01-08 02:36:44 Epoch: 22 	Training Loss: 62.983349 	Validation Loss: 38.285480
+2024-01-08 02:36:44 Validation loss decreased (38.246048 --> 38.285480).  Saving model ...
+2024-01-08 02:36:45 epoch: 23, counter: 0, batch_loss: 0.1320309042930603
+2024-01-08 02:38:19 epoch: 23, counter: 960, batch_loss: 0.2666657865047455
+2024-01-08 02:39:54 epoch: 23, counter: 1920, batch_loss: 0.22146087884902954
+2024-01-08 02:41:01 {'loss_classifier': tensor(12.8734, device='cuda:0'), 'loss_box_reg': tensor(25.4185, device='cuda:0'), 'loss_objectness': tensor(4.0553, device='cuda:0'), 'loss_rpn_box_reg': tensor(19.9267, device='cuda:0')}
+2024-01-08 02:41:16 {'loss_classifier': tensor(4.3706, device='cuda:0'), 'loss_box_reg': tensor(4.7095, device='cuda:0'), 'loss_objectness': tensor(20.4341, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.7653, device='cuda:0')}
+2024-01-08 02:41:16 Epoch: 23 	Training Loss: 62.273907 	Validation Loss: 38.279579
+2024-01-08 02:41:16 Validation loss decreased (38.285480 --> 38.279579).  Saving model ...
+2024-01-08 02:41:17 epoch: 24, counter: 0, batch_loss: 0.22025230526924133
+2024-01-08 02:42:52 epoch: 24, counter: 960, batch_loss: 0.2130604088306427
+2024-01-08 02:44:26 epoch: 24, counter: 1920, batch_loss: 0.211045041680336
+2024-01-08 02:45:33 {'loss_classifier': tensor(12.7534, device='cuda:0'), 'loss_box_reg': tensor(25.3165, device='cuda:0'), 'loss_objectness': tensor(4.0109, device='cuda:0'), 'loss_rpn_box_reg': tensor(19.6489, device='cuda:0')}
+2024-01-08 02:45:49 {'loss_classifier': tensor(4.5500, device='cuda:0'), 'loss_box_reg': tensor(4.8069, device='cuda:0'), 'loss_objectness': tensor(21.1083, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.6912, device='cuda:0')}
+2024-01-08 02:45:49 Epoch: 24 	Training Loss: 61.729637 	Validation Loss: 39.156364
+2024-01-08 02:45:49 Validation loss decreased (38.279579 --> 39.156364).  Saving model ...
+2024-01-08 02:45:49 epoch: 25, counter: 0, batch_loss: 0.2197607159614563
+2024-01-08 02:47:24 epoch: 25, counter: 960, batch_loss: 0.30572864413261414
+2024-01-08 02:48:59 epoch: 25, counter: 1920, batch_loss: 0.2968336045742035
+2024-01-08 02:50:06 {'loss_classifier': tensor(12.6692, device='cuda:0'), 'loss_box_reg': tensor(25.2927, device='cuda:0'), 'loss_objectness': tensor(4.1096, device='cuda:0'), 'loss_rpn_box_reg': tensor(19.5557, device='cuda:0')}
+2024-01-08 02:50:21 {'loss_classifier': tensor(4.3673, device='cuda:0'), 'loss_box_reg': tensor(4.7255, device='cuda:0'), 'loss_objectness': tensor(20.7619, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.7084, device='cuda:0')}
+2024-01-08 02:50:21 Epoch: 25 	Training Loss: 61.627186 	Validation Loss: 38.563087
+2024-01-08 02:50:21 Validation loss decreased (39.156364 --> 38.563087).  Saving model ...
+2024-01-08 02:50:22 epoch: 26, counter: 0, batch_loss: 0.17025691270828247
+2024-01-08 02:51:57 epoch: 26, counter: 960, batch_loss: 0.11996452510356903
+2024-01-08 02:53:31 epoch: 26, counter: 1920, batch_loss: 0.1704137921333313
+2024-01-08 02:54:38 {'loss_classifier': tensor(12.5383, device='cuda:0'), 'loss_box_reg': tensor(25.1410, device='cuda:0'), 'loss_objectness': tensor(3.9456, device='cuda:0'), 'loss_rpn_box_reg': tensor(19.3708, device='cuda:0')}
+2024-01-08 02:54:54 {'loss_classifier': tensor(4.4490, device='cuda:0'), 'loss_box_reg': tensor(4.7148, device='cuda:0'), 'loss_objectness': tensor(22.1127, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.7353, device='cuda:0')}
+2024-01-08 02:54:54 Epoch: 26 	Training Loss: 60.995724 	Validation Loss: 40.011837
+2024-01-08 02:54:54 Validation loss decreased (38.563087 --> 40.011837).  Saving model ...
+2024-01-08 02:54:54 epoch: 27, counter: 0, batch_loss: 0.3341531455516815
+2024-01-08 02:56:29 epoch: 27, counter: 960, batch_loss: 0.3674933612346649
+2024-01-08 02:58:04 epoch: 27, counter: 1920, batch_loss: 0.19293172657489777
+2024-01-08 02:59:11 {'loss_classifier': tensor(12.3949, device='cuda:0'), 'loss_box_reg': tensor(25.1111, device='cuda:0'), 'loss_objectness': tensor(3.7854, device='cuda:0'), 'loss_rpn_box_reg': tensor(19.1646, device='cuda:0')}
+2024-01-08 02:59:26 {'loss_classifier': tensor(4.5477, device='cuda:0'), 'loss_box_reg': tensor(4.8180, device='cuda:0'), 'loss_objectness': tensor(21.4086, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.7313, device='cuda:0')}
+2024-01-08 02:59:26 Epoch: 27 	Training Loss: 60.455990 	Validation Loss: 39.505619
+2024-01-08 02:59:26 Validation loss decreased (40.011837 --> 39.505619).  Saving model ...
+2024-01-08 02:59:27 epoch: 28, counter: 0, batch_loss: 0.21614237129688263
+2024-01-08 03:01:01 epoch: 28, counter: 960, batch_loss: 0.17718327045440674
+2024-01-08 03:02:36 epoch: 28, counter: 1920, batch_loss: 0.1900903880596161
+2024-01-08 03:03:43 {'loss_classifier': tensor(12.4042, device='cuda:0'), 'loss_box_reg': tensor(25.0379, device='cuda:0'), 'loss_objectness': tensor(3.9157, device='cuda:0'), 'loss_rpn_box_reg': tensor(19.1033, device='cuda:0')}
+2024-01-08 03:03:58 {'loss_classifier': tensor(4.5918, device='cuda:0'), 'loss_box_reg': tensor(4.7629, device='cuda:0'), 'loss_objectness': tensor(21.6862, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.7650, device='cuda:0')}
+2024-01-08 03:03:58 Epoch: 28 	Training Loss: 60.461147 	Validation Loss: 39.805950
+2024-01-08 03:03:58 Validation loss decreased (39.505619 --> 39.805950).  Saving model ...
+2024-01-08 03:03:59 epoch: 29, counter: 0, batch_loss: 0.16176411509513855
+2024-01-08 03:05:34 epoch: 29, counter: 960, batch_loss: 0.22388115525245667
+2024-01-08 03:07:08 epoch: 29, counter: 1920, batch_loss: 0.2369929850101471
+2024-01-08 03:08:15 {'loss_classifier': tensor(12.2802, device='cuda:0'), 'loss_box_reg': tensor(24.9830, device='cuda:0'), 'loss_objectness': tensor(3.7485, device='cuda:0'), 'loss_rpn_box_reg': tensor(19.0066, device='cuda:0')}
+2024-01-08 03:08:30 {'loss_classifier': tensor(4.5670, device='cuda:0'), 'loss_box_reg': tensor(4.8166, device='cuda:0'), 'loss_objectness': tensor(22.8551, device='cuda:0'), 'loss_rpn_box_reg': tensor(8.9200, device='cuda:0')}
+2024-01-08 03:08:30 Epoch: 29 	Training Loss: 60.018173 	Validation Loss: 41.158718
+2024-01-08 03:08:30 Validation loss decreased (39.805950 --> 41.158718).  Saving model ...

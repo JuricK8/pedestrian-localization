@@ -1,0 +1,90 @@
+2024-01-08 03:07:11 doas_strat0.pt  Loading checkpoint                                                                                                                    
+2024-01-08 03:10:59 Validation maAP50 :  0.6637670909914282                                                                                                               
+2024-01-08 03:10:59 Validation mAP50-95:  0.323980228308047                                                                                                               
+2024-01-08 03:11:00 doas_strat1.pt  Loading checkpoint                                                                                                                    
+2024-01-08 03:14:10 Validation maAP50 :  0.6545952036234062                          
+2024-01-08 03:14:10 Validation mAP50-95:  0.3396842524621858                         
+2024-01-08 03:14:11 doas_strat2.pt  Loading checkpoint                               
+2024-01-08 03:17:17 Validation maAP50 :  0.6658173114682608                          
+2024-01-08 03:17:17 Validation mAP50-95:  0.3549730656444013                         
+2024-01-08 03:17:18 doas_strat3.pt  Loading checkpoint                               
+2024-01-08 03:20:03 Validation maAP50 :  0.6614818270184866                          
+2024-01-08 03:20:03 Validation mAP50-95:  0.3586650583985749                         
+2024-01-08 03:20:05 doas_strat4.pt  Loading checkpoint                               
+2024-01-08 03:22:44 Validation maAP50 :  0.6648909569616098                          
+2024-01-08 03:22:44 Validation mAP50-95:  0.3651107007967373   
+2024-01-08 03:22:46 doas_strat5.pt  Loading checkpoint                                                                                                            [37/974]
+2024-01-08 03:25:47 Validation maAP50 :  0.6609927317292136                          
+2024-01-08 03:25:47 Validation mAP50-95:  0.3591197818642531                         
+2024-01-08 03:25:49 doas_strat6.pt  Loading checkpoint                               
+2024-01-08 03:28:35 Validation maAP50 :  0.6543926255765841                          
+2024-01-08 03:28:35 Validation mAP50-95:  0.3582635720007238                         
+2024-01-08 03:28:36 doas_strat7.pt  Loading checkpoint                               
+2024-01-08 03:31:21 Validation maAP50 :  0.6651356330821674                          
+2024-01-08 03:31:21 Validation mAP50-95:  0.37334882473745684                        
+2024-01-08 03:31:23 doas_strat8.pt  Loading checkpoint                               
+2024-01-08 03:34:10 Validation maAP50 :  0.6687435345794696                          
+2024-01-08 03:34:10 Validation mAP50-95:  0.36641022695321107                        
+2024-01-08 03:34:12 doas_strat9.pt  Loading checkpoint                               
+2024-01-08 03:36:53 Validation maAP50 :  0.6624248683567627                          
+2024-01-08 03:36:53 Validation mAP50-95:  0.3666908625280875                         
+2024-01-08 03:36:55 doas_strat10.pt  Loading checkpoint                              
+2024-01-08 03:39:29 Validation maAP50 :  0.6645876200108441                          
+2024-01-08 03:39:29 Validation mAP50-95:  0.37004661965505625                        
+2024-01-08 03:39:31 doas_strat11.pt  Loading checkpoint                              
+2024-01-08 03:41:58 Validation maAP50 :  0.662235526254904                           
+2024-01-08 03:41:58 Validation mAP50-95:  0.370862038074595                          
+2024-01-08 03:42:00 doas_strat12.pt  Loading checkpoint                              
+2024-01-08 03:44:42 Validation maAP50 :  0.6620984541923346                          
+2024-01-08 03:44:42 Validation mAP50-95:  0.37133872985189414                        
+2024-01-08 03:44:44 doas_strat13.pt  Loading checkpoint                              
+2024-01-08 03:47:08 Validation maAP50 :  0.6577924526432732                          
+2024-01-08 03:47:08 Validation mAP50-95:  0.3728824570591862                         
+2024-01-08 03:47:10 doas_strat14.pt  Loading checkpoint                              
+2024-01-08 03:49:35 Validation maAP50 :  0.6512766225899945                          
+2024-01-08 03:49:35 Validation mAP50-95:  0.36545667230102447                        
+2024-01-08 03:49:36 doas_strat15.pt  Loading checkpoint                              
+2024-01-08 03:51:57 Validation maAP50 :  0.6689130246395452                          
+2024-01-08 03:51:57 Validation mAP50-95:  0.3670129919424015                         
+2024-01-08 03:51:59 doas_strat16.pt  Loading checkpoint                              
+2024-01-08 03:54:20 Validation maAP50 :  0.648172778799099                           
+2024-01-08 03:54:20 Validation mAP50-95:  0.3606846366780031      
+2024-01-08 03:54:21 doas_strat17.pt  Loading checkpoint
+2024-01-08 03:56:37 Validation maAP50 :  0.6537545727039278
+2024-01-08 03:56:37 Validation mAP50-95:  0.3648113429525058
+2024-01-08 03:56:39 doas_strat18.pt  Loading checkpoint
+2024-01-08 03:58:59 Validation maAP50 :  0.6602940785061949
+2024-01-08 03:58:59 Validation mAP50-95:  0.3633107184887847
+2024-01-08 03:59:01 doas_strat19.pt  Loading checkpoint
+2024-01-08 04:01:21 Validation maAP50 :  0.6442812653906744
+2024-01-08 04:01:21 Validation mAP50-95:  0.3569506796561417
+2024-01-08 04:01:23 doas_strat20.pt  Loading checkpoint
+2024-01-08 04:03:33 Validation maAP50 :  0.6524207019900626
+2024-01-08 04:03:33 Validation mAP50-95:  0.3636355569583738
+2024-01-08 04:03:35 doas_strat21.pt  Loading checkpoint
+2024-01-08 04:05:47 Validation maAP50 :  0.6486394203310186
+2024-01-08 04:05:47 Validation mAP50-95:  0.3611188537863915
+2024-01-08 04:05:49 doas_strat22.pt  Loading checkpoint
+2024-01-08 04:07:57 Validation maAP50 :  0.6472066315493764
+2024-01-08 04:07:57 Validation mAP50-95:  0.363366018723949
+2024-01-08 04:07:58 doas_strat23.pt  Loading checkpoint
+2024-01-08 04:10:07 Validation maAP50 :  0.6489935978393537
+2024-01-08 04:10:07 Validation mAP50-95:  0.36170719176936805
+2024-01-08 04:10:08 doas_strat24.pt  Loading checkpoint
+2024-01-08 04:12:14 Validation maAP50 :  0.6445576968760175
+2024-01-08 04:12:14 Validation mAP50-95:  0.36208666186888283
+2024-01-08 04:12:16 doas_strat25.pt  Loading checkpoint
+2024-01-08 04:14:23 Validation maAP50 :  0.6492768416112169
+2024-01-08 04:14:23 Validation mAP50-95:  0.361857929436347
+2024-01-08 04:14:24 doas_strat26.pt  Loading checkpoint
+2024-01-08 04:16:33 Validation maAP50 :  0.6497179964988531
+2024-01-08 04:16:33 Validation mAP50-95:  0.3635442781809385
+2024-01-08 04:16:33 doas_strat27.pt  Loading checkpoint
+2024-01-08 04:18:41 Validation maAP50 :  0.6445621109706431
+2024-01-08 04:18:41 Validation mAP50-95:  0.3642851785768379
+2024-01-08 04:18:41 doas_strat28.pt  Loading checkpoint
+2024-01-08 04:20:45 Validation maAP50 :  0.6394362677598517
+2024-01-08 04:20:45 Validation mAP50-95:  0.3610367341586314
+2024-01-08 04:20:45 doas_strat29.pt  Loading checkpoint
+2024-01-08 04:22:52 Validation maAP50 :  0.6428179487055602
+2024-01-08 04:22:52 Validation mAP50-95:  0.36162369535276495
